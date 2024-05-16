@@ -3,7 +3,7 @@
 ## Descripción
 Este proyecto es un script en Python que automatiza búsquedas en el navegador Microsoft Edge utilizando Selenium. Realiza búsquedas aleatorias sobre diferentes temas y palabras clave, ayudando a simular el comportamiento humano en la navegación web. Además, te ayuda a conseguir puntos de recompensa al realizar estas búsquedas en Bing. Cada búsqueda realizada contribuye a acumular puntos que pueden ser canjeados por diversas recompensas.
 
-[¡Ejemplo!](/img/Example.png)
+(/img/Example.png)
 
 ## Uso
 
